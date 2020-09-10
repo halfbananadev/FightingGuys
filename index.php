@@ -11,6 +11,11 @@ $page = (isset($_GET['page']) ? $_GET['page'] : 'main');
 <title>HalfBanana Dev</title>
 </head>
 <body>
+  <header>
+    <nav>
+        <a href="PrivacyPolicy.php">Privacy Policy</a>
+    </nav>
+</header>
 
 </body>
 </html>
